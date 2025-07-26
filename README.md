@@ -2,7 +2,7 @@
 
 **`Code Alchemist (Problem Solver/Tech Enthusiast/Creator)`**
 
-Currently pursuing a Diploma in Advanced Programming and a graduate of Certificate IV in Programming, I’m passionate about building practical software solutions. Skilled in Java, C#, Python, and web development, I enjoy creating everything from AI-powered chatbots to dynamic web apps—always aiming for clean code, effective teamwork, and user-focused results.
+I have completed advanced, formal training in programming, mastering both foundational and modern software development practices. My academic background is complemented by practical expertise in Java, Kotlin, C#, Python, PostgreSQL, and web development, enabling me to build robust, user-focused solutions in collaborative environments. I have hands-on experience building AI-powered chatbots and scalable web platforms, with a strong focus on clean, maintainable code, collaborative teamwork, and delivering user-centric results. I am eager to contribute my skills and passion in a professional environment where I can drive value and grow as a developer.
 
 ---
 
